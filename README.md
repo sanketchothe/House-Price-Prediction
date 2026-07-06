@@ -1,2 +1,2 @@
 # House-Price-Prediction
-Predict House Price using given column data
+A machine learning-based House Price Prediction System that estimates property prices using features such as location, area, number of bedrooms, bathrooms, and other housing attributes. The project involves data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation to build an accurate predictive model. It helps users, buyers, sellers, and real-estate businesses make data-driven decisions by predicting house prices based on input property details. The system demonstrates the practical use of regression algorithms, data visualization, and model performance analysis in solving real-world real estate pricing problems.
